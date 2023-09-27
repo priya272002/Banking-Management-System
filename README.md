@@ -20,6 +20,8 @@ Once the user has entered the menu, he/she will be given 4 options to choose fro
 2.Enter ATM
 3.Administrator (Restricted)
 4.Exit
+
+
 If the user chooses option 1, the user will be taken to the bank section and the following options will be shown:
 
 1.Pay Bill
@@ -29,8 +31,11 @@ If the user chooses option 1, the user will be taken to the bank section and the
 5.Exit to Main Menu
 6.If the user chooses option 2, the user will be taken to the ATM section and the following options will be shown:
 
+
 1.Enter Pin and Debit Card number a. Withdraw Cash b. Change Pin (Requires Current Pin) c. Balance Enquiry d. Exit
 If the user chooses option 3, the user will be taken to the Administration section and the following options will be shown:
+
+
 
 2.Username and Password will be asked to proceed. a. View Bill Payment Queue in the Bank b. View Account Opening Queue and Process Accounts c. Exit
 If the user chooses option 4, the user will be taken to the farewell screen, asking the user to press any key to exit the program.
